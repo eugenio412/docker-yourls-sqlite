@@ -3,7 +3,7 @@ this container was done using the standard yourls container version 1.7.3 and th
 
 A later version from Flameborn was to me impossible to use as the 1.7.10 at this time is not released as far as I know.
 
-this container is very lightweight due to the use of SQlite instead of Mysql.
+this container is very lightweight due to the use of SQlite instead of Mysql. A new container uses 21MB of RAM only.
 
 Guide:
 
