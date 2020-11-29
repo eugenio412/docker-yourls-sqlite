@@ -7,7 +7,8 @@ this container is very lightweight due to the use of SQlite instead of Mysql. A 
 
 Guide:
 
-git clone
+git clone https://github.com/eugenio412/docker-yourls-sqlite.git
+
 modify the following parameters in config.php : 
 
 -) http://your.url in line 32 
@@ -18,3 +19,7 @@ chmod +x build.sh run.sh
 
 launch ./build to build
 launch ./run to start the container
+
+go to your hosted url as written in http://your.url
+
+press install and enjoy!
