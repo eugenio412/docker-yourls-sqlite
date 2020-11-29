@@ -12,7 +12,9 @@ git clone https://github.com/eugenio412/docker-yourls-sqlite.git
 modify the following parameters in config.php : 
 
 -) http://your.url in line 32 
+
 -) copy string from website in Hint -> using the url http://yourls.org/cookie in line 54
+
 -) yourl_username and yourl_password in line 95
 
 chmod +x build.sh run.sh
